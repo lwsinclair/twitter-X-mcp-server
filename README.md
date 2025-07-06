@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0xgval-twitter-x-mcp-server-badge.png)](https://mseep.ai/app/0xgval-twitter-x-mcp-server)
+
 # X Tools for Claude MCP
 
 A lightweight, open-source toolkit that enables Claude to search Twitter efficiently with natural language and display results based on user intent. Designed for both raw data viewing and optional analysis.
